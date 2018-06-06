@@ -18,6 +18,4 @@ function miFuncion(num) {
     }
 
 }
-miFuncion(20);
 miFuncion(10);
-miFuncion(15);
