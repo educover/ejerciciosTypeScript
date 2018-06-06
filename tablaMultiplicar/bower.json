@@ -1,0 +1,21 @@
+{
+  "name": "tablaMultiplicar",
+  "authors": [
+    "Edu Alcover <alcover.edu@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jquery": "@types/jquery#^3.3.1"
+  }
+}
